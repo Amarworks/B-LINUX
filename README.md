@@ -1,2 +1,4 @@
 # B-LINUX
-In this repository, basic linux commands are used 
+ Basic linux commands 
+<br>
+Author- Amar Kant Diwakar
