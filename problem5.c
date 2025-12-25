@@ -13,4 +13,3 @@ printf("The given seconds in seconds is : %d \n", s);
 return 0;
 
 }
-
